@@ -1,12 +1,12 @@
 # A03
-step 1: set up Github account on github.com.
-step 2: Install Webstorm onto computer. Webstorm can be downloaded for free, for students, from jetbrains.com/student. Use active student email address to sign up and download Webstorm.
-step 3: Install git onto computer. Git can be downloaded from https://git-scm.com/downloads.
-step 4: Once all applications are downloaded and signed up for, connect git and Webstorm.
-step 5: To connect git and Webstorm, go to version control on Webstorm and enter path to git.exe
-step 6: Add github password on Webstorm through system preferences on Webstorm. In the systems preferences on Webstorm, go to the Appearance & Behavior section, and in the Appearance & Behavior dropdown, click on System settings and in the system settings dropdown menu click on Passwords. Save github password and then click OK.
-step 7: Go to github.com and create a repository. 
-step 8: Make repository public and initialize the repository with a README file.
+step 1- set up Github account on github.com.
+step 2- Install Webstorm onto computer. Webstorm can be downloaded for free, for students, from jetbrains.com/student. Use active student email address to sign up and download Webstorm.
+step 3- Install git onto computer. Git can be downloaded from https://git-scm.com/downloads.
+step 4- Once all applications are downloaded and signed up for, connect git and Webstorm.
+step 5- To connect git and Webstorm, go to version control on Webstorm and enter path to git.exe
+step 6- Add github password on Webstorm through system preferences on Webstorm. In the systems preferences on Webstorm, go to the Appearance & Behavior section, and in the Appearance & Behavior dropdown, click on System settings and in the system settings dropdown menu click on Passwords. Save github password and then click OK.
+step 7- Go to github.com and create a repository. 
+step 8- Make repository public and initialize the repository with a README file.
 
 DEFINITIONS:
 GIT: a content management and tracking system developed by Linus Torvalds, creator of Linux.
