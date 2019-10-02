@@ -28,3 +28,11 @@ https://searchitoperations.techtarget.com/definition/GitHub
 https://techterms.com/definition/repository
 https://en.wikipedia.org/wiki/Clone_(computing)#targetText=In%20computing%2C%20a%20clone%20is,%2C%20obsolete%2C%20or%20discontinued%20products.
 https://searchsqlserver.techtarget.com/definition/commit
+https://techterms.com/definition/push#targetText=Push,%22pulled%22%20by%20the%20user.&targetText=Push%20technology%2C%20which%20is%20also,Internet%20to%20a%20user's%20computer.
+https://www.webopedia.com/TERM/P/pull.html
+https://www.techopedia.com/definition/18058/branch
+https://www.techopedia.com/definition/1217/merge
+https://help.github.com/en/articles/about-merge-conflicts
+https://www.webopedia.com/TERM/F/fetch.html
+https://www.git-tower.com/learn/git/glossary/remote#targetText=A%20remote%20in%20Git%20is,of%20the%20project's%20current%20state.
+Hendela, A. (2019). Intro to Github [Powerpoint Slides]. Retrieved from https://njit.instructure.com/courses/5658/files/126988/download?download_frd=1.
