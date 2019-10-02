@@ -1,6 +1,6 @@
 # A03
-step 1- set up Github account on github.com.
-step 2- Install Webstorm onto computer. Webstorm can be downloaded for free, for students, from jetbrains.com/student. Use active student email address to sign up and download Webstorm.
+step 1- set up Github account on github.com. <br />
+step 2- Install Webstorm onto computer. Webstorm can be downloaded for free, for students, from jetbrains.com/student. Use active student email address to sign up and download Webstorm.  
 step 3- Install git onto computer. Git can be downloaded from https://git-scm.com/downloads.
 step 4- Once all applications are downloaded and signed up for, connect git and Webstorm.
 step 5- To connect git and Webstorm, go to version control on Webstorm and enter path to git.exe
